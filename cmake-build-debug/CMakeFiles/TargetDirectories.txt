@@ -1,0 +1,3 @@
+C:/Users/nobed/Desktop/Billing/cmake-build-debug/CMakeFiles/Billing.dir
+C:/Users/nobed/Desktop/Billing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nobed/Desktop/Billing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
